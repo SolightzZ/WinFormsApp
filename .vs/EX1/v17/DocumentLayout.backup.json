@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Documents\\- CODDING\\WinFormsApp1\\EX1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1FA95A9E-8F8F-4B4D-8735-E137178666A5}|EX1\\EX1.csproj|c:\\users\\user\\documents\\- codding\\winformsapp1\\ex1\\ex1\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FA95A9E-8F8F-4B4D-8735-E137178666A5}|EX1\\EX1.csproj|solutionrelative:ex1\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FA95A9E-8F8F-4B4D-8735-E137178666A5}|EX1\\EX1.csproj|c:\\users\\user\\documents\\- codding\\winformsapp1\\ex1\\ex1\\customerbycountry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FA95A9E-8F8F-4B4D-8735-E137178666A5}|EX1\\EX1.csproj|solutionrelative:ex1\\customerbycountry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FA95A9E-8F8F-4B4D-8735-E137178666A5}|EX1\\EX1.csproj|c:\\users\\user\\documents\\- codding\\winformsapp1\\ex1\\ex1\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1FA95A9E-8F8F-4B4D-8735-E137178666A5}|EX1\\EX1.csproj|solutionrelative:ex1\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FA95A9E-8F8F-4B4D-8735-E137178666A5}|EX1\\EX1.csproj|c:\\users\\user\\documents\\- codding\\winformsapp1\\ex1\\ex1\\showallproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1FA95A9E-8F8F-4B4D-8735-E137178666A5}|EX1\\EX1.csproj|solutionrelative:ex1\\showallproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FA95A9E-8F8F-4B4D-8735-E137178666A5}|EX1\\EX1.csproj|c:\\users\\user\\documents\\- codding\\winformsapp1\\ex1\\ex1\\customerbycountry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1FA95A9E-8F8F-4B4D-8735-E137178666A5}|EX1\\EX1.csproj|solutionrelative:ex1\\customerbycountry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FA95A9E-8F8F-4B4D-8735-E137178666A5}|EX1\\EX1.csproj|c:\\users\\user\\documents\\- codding\\winformsapp1\\ex1\\ex1\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1FA95A9E-8F8F-4B4D-8735-E137178666A5}|EX1\\EX1.csproj|solutionrelative:ex1\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomerByCountry.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\- CODDING\\WinFormsApp1\\EX1\\EX1\\CustomerByCountry.cs",
+              "RelativeDocumentMoniker": "EX1\\CustomerByCountry.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\- CODDING\\WinFormsApp1\\EX1\\EX1\\CustomerByCountry.cs",
+              "RelativeToolTip": "EX1\\CustomerByCountry.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAmwFYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T15:01:45.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form3.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\- CODDING\\WinFormsApp1\\EX1\\EX1\\Form3.cs",
+              "RelativeDocumentMoniker": "EX1\\Form3.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\- CODDING\\WinFormsApp1\\EX1\\EX1\\Form3.cs [Design]",
+              "RelativeToolTip": "EX1\\Form3.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T14:59:50.418Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CustomerByCountry.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\- CODDING\\WinFormsApp1\\EX1\\EX1\\CustomerByCountry.cs",
+              "RelativeDocumentMoniker": "EX1\\CustomerByCountry.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\- CODDING\\WinFormsApp1\\EX1\\EX1\\CustomerByCountry.cs [Design]",
+              "RelativeToolTip": "EX1\\CustomerByCountry.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T14:59:43.193Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ShowAllProducts.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\- CODDING\\WinFormsApp1\\EX1\\EX1\\ShowAllProducts.cs",
+              "RelativeDocumentMoniker": "EX1\\ShowAllProducts.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\- CODDING\\WinFormsApp1\\EX1\\EX1\\ShowAllProducts.cs [Design]",
+              "RelativeToolTip": "EX1\\ShowAllProducts.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T14:57:20.785Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainMenu.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\- CODDING\\WinFormsApp1\\EX1\\EX1\\MainMenu.cs",
+              "RelativeDocumentMoniker": "EX1\\MainMenu.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\- CODDING\\WinFormsApp1\\EX1\\EX1\\MainMenu.cs",
+              "RelativeToolTip": "EX1\\MainMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T14:53:56.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainMenu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\- CODDING\\WinFormsApp1\\EX1\\EX1\\MainMenu.cs",
+              "RelativeDocumentMoniker": "EX1\\MainMenu.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\- CODDING\\WinFormsApp1\\EX1\\EX1\\MainMenu.cs [Design]",
+              "RelativeToolTip": "EX1\\MainMenu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T14:53:47.192Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
