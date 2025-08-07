@@ -68,3 +68,4 @@ C:\Users\User\Documents\- CODDING\WinFormsApp1\EX1\EX1\obj\Debug\net8.0-windows\
 C:\Users\User\Documents\- CODDING\WinFormsApp1\EX1\EX1\obj\Debug\net8.0-windows\EX1.test.resources
 C:\Users\User\Documents\- CODDING\WinFormsApp1\EX1\EX1\obj\Debug\net8.0-windows\EX1.Form2.resources
 C:\Users\User\Documents\- CODDING\WinFormsApp1\EX1\EX1\obj\Debug\net8.0-windows\EX1.CustomerByCountry.resources
+C:\Users\User\Documents\- CODDING\WinFormsApp1\EX1\EX1\obj\Debug\net8.0-windows\EX1.ProductByCategory.resources

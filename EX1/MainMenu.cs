@@ -49,5 +49,12 @@ namespace EX1
         {
 
         }
+
+        private void workshop5ToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            ProductByCategory PC = new ProductByCategory();
+            PC.MdiParent = this;
+            PC.Show();
+        }
     }
 }

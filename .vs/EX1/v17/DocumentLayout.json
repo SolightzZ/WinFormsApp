@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\User\\Documents\\- CODDING\\WinFormsApp1\\EX1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1FA95A9E-8F8F-4B4D-8735-E137178666A5}|EX1\\EX1.csproj|c:\\users\\user\\documents\\- codding\\winformsapp1\\ex1\\ex1\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{1FA95A9E-8F8F-4B4D-8735-E137178666A5}|EX1\\EX1.csproj|solutionrelative:ex1\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{1FA95A9E-8F8F-4B4D-8735-E137178666A5}|EX1\\EX1.csproj|c:\\users\\user\\documents\\- codding\\winformsapp1\\ex1\\ex1\\productbycategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1FA95A9E-8F8F-4B4D-8735-E137178666A5}|EX1\\EX1.csproj|solutionrelative:ex1\\productbycategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FA95A9E-8F8F-4B4D-8735-E137178666A5}|EX1\\EX1.csproj|c:\\users\\user\\documents\\- codding\\winformsapp1\\ex1\\ex1\\productbycategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FA95A9E-8F8F-4B4D-8735-E137178666A5}|EX1\\EX1.csproj|solutionrelative:ex1\\productbycategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FA95A9E-8F8F-4B4D-8735-E137178666A5}|EX1\\EX1.csproj|c:\\users\\user\\documents\\- codding\\winformsapp1\\ex1\\ex1\\customerbycountry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1FA95A9E-8F8F-4B4D-8735-E137178666A5}|EX1\\EX1.csproj|solutionrelative:ex1\\customerbycountry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FA95A9E-8F8F-4B4D-8735-E137178666A5}|EX1\\EX1.csproj|c:\\users\\user\\documents\\- codding\\winformsapp1\\ex1\\ex1\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FA95A9E-8F8F-4B4D-8735-E137178666A5}|EX1\\EX1.csproj|solutionrelative:ex1\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,14 +34,52 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MainMenu.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\- CODDING\\WinFormsApp1\\EX1\\EX1\\MainMenu.cs",
-              "RelativeDocumentMoniker": "EX1\\MainMenu.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\- CODDING\\WinFormsApp1\\EX1\\EX1\\MainMenu.cs [Design]",
-              "RelativeToolTip": "EX1\\MainMenu.cs [Design]",
+              "DocumentIndex": 3,
+              "Title": "DBConnection.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\- CODDING\\WinFormsApp1\\EX1\\EX1\\DBConnection.cs",
+              "RelativeDocumentMoniker": "EX1\\DBConnection.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\- CODDING\\WinFormsApp1\\EX1\\EX1\\DBConnection.cs",
+              "RelativeToolTip": "EX1\\DBConnection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-06T15:05:13.649Z",
+              "WhenOpened": "2025-08-07T07:38:11.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomerByCountry.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\- CODDING\\WinFormsApp1\\EX1\\EX1\\CustomerByCountry.cs",
+              "RelativeDocumentMoniker": "EX1\\CustomerByCountry.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\- CODDING\\WinFormsApp1\\EX1\\EX1\\CustomerByCountry.cs [Design]",
+              "RelativeToolTip": "EX1\\CustomerByCountry.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T07:34:16.957Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductByCategory.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\- CODDING\\WinFormsApp1\\EX1\\EX1\\ProductByCategory.cs",
+              "RelativeDocumentMoniker": "EX1\\ProductByCategory.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\- CODDING\\WinFormsApp1\\EX1\\EX1\\ProductByCategory.cs*",
+              "RelativeToolTip": "EX1\\ProductByCategory.cs*",
+              "ViewState": "AgIAAA8AAAAAAAAAAIAwwBwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T06:38:16.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductByCategory.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\- CODDING\\WinFormsApp1\\EX1\\EX1\\ProductByCategory.cs",
+              "RelativeDocumentMoniker": "EX1\\ProductByCategory.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\- CODDING\\WinFormsApp1\\EX1\\EX1\\ProductByCategory.cs [Design]*",
+              "RelativeToolTip": "EX1\\ProductByCategory.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T06:35:52.329Z",
               "EditorCaption": " [Design]"
             }
           ]
