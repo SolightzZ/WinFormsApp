@@ -56,5 +56,32 @@ namespace EX1
             PC.MdiParent = this;
             PC.Show();
         }
+
+        private void workshop6ToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            FromProduct fromProduct = new FromProduct();
+            fromProduct.MdiParent = this;
+            fromProduct.Show();
+        }
+
+        private void workshop7ToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            WorkShop7 WH7 = new WorkShop7();
+            WH7.MdiParent = this;
+            WH7.Show();
+
+        }
+
+        private void MainMenu_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void workshop8ToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            WorkShop8  WH8 = new WorkShop8();
+            WH8.MdiParent = this;
+            WH8.Show();
+        }
     }
 }

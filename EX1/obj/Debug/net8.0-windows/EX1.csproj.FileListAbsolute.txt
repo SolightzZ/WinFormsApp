@@ -65,7 +65,10 @@ C:\Users\User\Documents\- CODDING\WinFormsApp1\EX1\EX1\obj\Debug\net8.0-windows\
 C:\Users\User\Documents\- CODDING\WinFormsApp1\EX1\EX1\obj\Debug\net8.0-windows\EX1.ShowAllProducts.resources
 C:\Users\User\Documents\- CODDING\WinFormsApp1\EX1\EX1\obj\Debug\net8.0-windows\EX1.Form3.resources
 C:\Users\User\Documents\- CODDING\WinFormsApp1\EX1\EX1\obj\Debug\net8.0-windows\EX1.MainMenu.resources
-C:\Users\User\Documents\- CODDING\WinFormsApp1\EX1\EX1\obj\Debug\net8.0-windows\EX1.test.resources
 C:\Users\User\Documents\- CODDING\WinFormsApp1\EX1\EX1\obj\Debug\net8.0-windows\EX1.Form2.resources
 C:\Users\User\Documents\- CODDING\WinFormsApp1\EX1\EX1\obj\Debug\net8.0-windows\EX1.CustomerByCountry.resources
 C:\Users\User\Documents\- CODDING\WinFormsApp1\EX1\EX1\obj\Debug\net8.0-windows\EX1.ProductByCategory.resources
+C:\Users\User\Documents\- CODDING\WinFormsApp1\EX1\EX1\obj\Debug\net8.0-windows\EX1.FromProduct.resources
+C:\Users\User\Documents\- CODDING\WinFormsApp1\EX1\EX1\obj\Debug\net8.0-windows\EX1.Properties.Resources.resources
+C:\Users\User\Documents\- CODDING\WinFormsApp1\EX1\EX1\obj\Debug\net8.0-windows\EX1.WorkShop7.resources
+C:\Users\User\Documents\- CODDING\WinFormsApp1\EX1\EX1\obj\Debug\net8.0-windows\EX1.WorkShop8.resources

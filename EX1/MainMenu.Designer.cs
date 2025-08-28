@@ -34,8 +34,11 @@
             workshop2ToolStripMenuItem = new ToolStripMenuItem();
             workshop3ToolStripMenuItem = new ToolStripMenuItem();
             workshop4ToolStripMenuItem = new ToolStripMenuItem();
-            helpsToolStripMenuItem = new ToolStripMenuItem();
             workshop5ToolStripMenuItem = new ToolStripMenuItem();
+            workshop6ToolStripMenuItem = new ToolStripMenuItem();
+            workshop7ToolStripMenuItem = new ToolStripMenuItem();
+            helpsToolStripMenuItem = new ToolStripMenuItem();
+            workshop8ToolStripMenuItem = new ToolStripMenuItem();
             menuStrip1.SuspendLayout();
             SuspendLayout();
             // 
@@ -51,7 +54,7 @@
             // 
             // workshopToolStripMenuItem
             // 
-            workshopToolStripMenuItem.DropDownItems.AddRange(new ToolStripItem[] { workshop1ToolStripMenuItem, workshop2ToolStripMenuItem, workshop3ToolStripMenuItem, workshop4ToolStripMenuItem, workshop5ToolStripMenuItem });
+            workshopToolStripMenuItem.DropDownItems.AddRange(new ToolStripItem[] { workshop1ToolStripMenuItem, workshop2ToolStripMenuItem, workshop3ToolStripMenuItem, workshop4ToolStripMenuItem, workshop5ToolStripMenuItem, workshop6ToolStripMenuItem, workshop7ToolStripMenuItem, workshop8ToolStripMenuItem });
             workshopToolStripMenuItem.Name = "workshopToolStripMenuItem";
             workshopToolStripMenuItem.Size = new Size(87, 24);
             workshopToolStripMenuItem.Text = "workshop";
@@ -59,30 +62,51 @@
             // workshop1ToolStripMenuItem
             // 
             workshop1ToolStripMenuItem.Name = "workshop1ToolStripMenuItem";
-            workshop1ToolStripMenuItem.Size = new Size(224, 26);
+            workshop1ToolStripMenuItem.Size = new Size(164, 26);
             workshop1ToolStripMenuItem.Text = "workshop1";
             workshop1ToolStripMenuItem.Click += Workshop1ToolStripMenuItem_Click;
             // 
             // workshop2ToolStripMenuItem
             // 
             workshop2ToolStripMenuItem.Name = "workshop2ToolStripMenuItem";
-            workshop2ToolStripMenuItem.Size = new Size(224, 26);
+            workshop2ToolStripMenuItem.Size = new Size(164, 26);
             workshop2ToolStripMenuItem.Text = "workshop2";
             workshop2ToolStripMenuItem.Click += workshop2ToolStripMenuItem_Click;
             // 
             // workshop3ToolStripMenuItem
             // 
             workshop3ToolStripMenuItem.Name = "workshop3ToolStripMenuItem";
-            workshop3ToolStripMenuItem.Size = new Size(224, 26);
+            workshop3ToolStripMenuItem.Size = new Size(164, 26);
             workshop3ToolStripMenuItem.Text = "workshop3";
             workshop3ToolStripMenuItem.Click += workshop3ToolStripMenuItem_Click;
             // 
             // workshop4ToolStripMenuItem
             // 
             workshop4ToolStripMenuItem.Name = "workshop4ToolStripMenuItem";
-            workshop4ToolStripMenuItem.Size = new Size(224, 26);
+            workshop4ToolStripMenuItem.Size = new Size(164, 26);
             workshop4ToolStripMenuItem.Text = "workshop4";
             workshop4ToolStripMenuItem.Click += workshop4ToolStripMenuItem_Click;
+            // 
+            // workshop5ToolStripMenuItem
+            // 
+            workshop5ToolStripMenuItem.Name = "workshop5ToolStripMenuItem";
+            workshop5ToolStripMenuItem.Size = new Size(164, 26);
+            workshop5ToolStripMenuItem.Text = "workshop5";
+            workshop5ToolStripMenuItem.Click += workshop5ToolStripMenuItem_Click;
+            // 
+            // workshop6ToolStripMenuItem
+            // 
+            workshop6ToolStripMenuItem.Name = "workshop6ToolStripMenuItem";
+            workshop6ToolStripMenuItem.Size = new Size(164, 26);
+            workshop6ToolStripMenuItem.Text = "workshop6";
+            workshop6ToolStripMenuItem.Click += workshop6ToolStripMenuItem_Click;
+            // 
+            // workshop7ToolStripMenuItem
+            // 
+            workshop7ToolStripMenuItem.Name = "workshop7ToolStripMenuItem";
+            workshop7ToolStripMenuItem.Size = new Size(164, 26);
+            workshop7ToolStripMenuItem.Text = "workshop7";
+            workshop7ToolStripMenuItem.Click += workshop7ToolStripMenuItem_Click;
             // 
             // helpsToolStripMenuItem
             // 
@@ -91,12 +115,12 @@
             helpsToolStripMenuItem.Text = "Helps";
             helpsToolStripMenuItem.Click += helpsToolStripMenuItem_Click;
             // 
-            // workshop5ToolStripMenuItem
+            // workshop8ToolStripMenuItem
             // 
-            workshop5ToolStripMenuItem.Name = "workshop5ToolStripMenuItem";
-            workshop5ToolStripMenuItem.Size = new Size(224, 26);
-            workshop5ToolStripMenuItem.Text = "workshop5";
-            workshop5ToolStripMenuItem.Click += workshop5ToolStripMenuItem_Click;
+            workshop8ToolStripMenuItem.Name = "workshop8ToolStripMenuItem";
+            workshop8ToolStripMenuItem.Size = new Size(224, 26);
+            workshop8ToolStripMenuItem.Text = "workshop8";
+            workshop8ToolStripMenuItem.Click += workshop8ToolStripMenuItem_Click;
             // 
             // MainMenu
             // 
@@ -109,6 +133,7 @@
             Name = "MainMenu";
             Text = "MainMenu";
             WindowState = FormWindowState.Maximized;
+            Load += MainMenu_Load;
             menuStrip1.ResumeLayout(false);
             menuStrip1.PerformLayout();
             ResumeLayout(false);
@@ -125,5 +150,8 @@
         private ToolStripMenuItem workshop4ToolStripMenuItem;
         private ToolStripMenuItem helpsToolStripMenuItem;
         private ToolStripMenuItem workshop5ToolStripMenuItem;
+        private ToolStripMenuItem workshop6ToolStripMenuItem;
+        private ToolStripMenuItem workshop7ToolStripMenuItem;
+        private ToolStripMenuItem workshop8ToolStripMenuItem;
     }
 }

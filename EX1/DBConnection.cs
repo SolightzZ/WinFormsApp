@@ -16,10 +16,5 @@ namespace EX1
         conn.Open();
         return conn;    
         }
-
-        internal static SqlConnection northwindConnect()
-        {
-            throw new NotImplementedException();
-        }
     }
 }
